@@ -80826,7 +80826,7 @@ $S:0}
 A.LA.prototype={
 J(a){var s=null,r=t.w,q=A.aO(a,s,r).w.a.a,p=A.aO(a,s,r).w.a.b
 r=t.p
-return A.lB(B.dz,A.a([A.aqC(B.cr,B.bx,q/5,!0,!0,p,B.l,90,!0,!1,new A.jc(),7,80,!0,A.ar(B.d.b1(127.5),255,255,255),2,q),A.ir(A.dd(A.a([A.mH(new A.c5(B.mi,A.c4(s,new A.d4(B.C,s,s,A.l7("assets/images/my_photo.jpeg",s,B.b1,s,s),s),B.aD,s,s,B.hR,s,p*0.4,s,s,s,s,q*0.5),s),B.l1,B.bS),B.Vf,B.hk,A.kO(A.ZZ(A.a([A.uU("Software Engineer"),A.uU("Mobile App Developer")],t.u6),new A.a7D(),!1,5),s,s,B.bH,!0,B.yD,s,s,B.aU),B.jP,B.lV],r),B.S,B.cj,B.J),s,s)],r),B.X,B.c0)}}
+return A.lB(B.dz,A.a([A.aqC(B.cr,B.bx,q/5,!0,!0,p,B.l,90,!0,!1,new A.jc(),7,70,!0,A.ar(B.d.b1(127.5),255,255,255),1.8,q),A.ir(A.dd(A.a([A.mH(new A.c5(B.mi,A.c4(s,new A.d4(B.C,s,s,A.l7("assets/images/my_photo.jpeg",s,B.b1,s,s),s),B.aD,s,s,B.hR,s,p*0.4,s,s,s,s,q*0.5),s),B.l1,B.bS),B.Vf,B.hk,A.kO(A.ZZ(A.a([A.uU("Software Engineer"),A.uU("Mobile App Developer")],t.u6),new A.a7D(),!1,5),s,s,B.bH,!0,B.yD,s,s,B.aU),B.jP,B.lV],r),B.S,B.cj,B.J),s,s)],r),B.X,B.c0)}}
 A.a7D.prototype={
 $0(){A.wc().$1("Tap Event")},
 $S:0}
